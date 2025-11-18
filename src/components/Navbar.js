@@ -5,7 +5,7 @@ const AppNavbar = () => {
     return (
         <Navbar bg="dark" variant="dark" expand="lg">
             <Container>
-                <Navbar.Brand href="/">Simple login page</Navbar.Brand>
+                <Navbar.Brand href="/">Simple Login Page</Navbar.Brand>
 
                 <Navbar.Toggle aria-controls="navbar-nav" />
 
